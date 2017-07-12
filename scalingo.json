@@ -1,0 +1,9 @@
+{
+  "name": "openwhyd",
+  "description": "Collect, play and share music from various streaming platforms",
+  "website": "https://openwhyd.org/",
+  "repository": "https://github.com/openwhyd/openwhyd",
+  "addons": [
+    "scalingo-mongodb"
+  ]
+}

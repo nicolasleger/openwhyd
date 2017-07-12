@@ -1,6 +1,10 @@
-# Openwhyd.org (formerly whyd.com) ![Travis-CI](https://travis-ci.org/openwhyd/openwhyd.svg?branch=master) [![OpenCollective](https://opencollective.com/openwhyd/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/openwhyd/sponsors/badge.svg)](#sponsors)
+# Openwhyd.org (formerly whyd.com)
+![Travis-CI](https://travis-ci.org/openwhyd/openwhyd.svg?branch=master) [![OpenCollective](https://opencollective.com/openwhyd/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/openwhyd/sponsors/badge.svg)](#sponsors)
 
 > Collect, play and share music from various streaming platforms
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/openwhyd/openwhyd)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/openwhyd/openwhyd)
 
 Openwhyd's curating platform (website + iphone app) allows music lovers to find and play very specific versions of songs that their love, and are not available on major music platforms such as Spotify or iTunes. E.g. rare remixes, DJ sets, bootlegs and epic live performances.
 

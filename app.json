@@ -1,0 +1,14 @@
+{
+  "name": "openwhyd",
+  "repository": "https://github.com/openwhyd/openwhyd",
+  "keywords": ["music", "track", "open", "node"],
+  "image": "heroku/nodejs",
+  "addons": [
+    "algoliasearch:free",
+    "mongolab:sandbox",
+    "logentries:le_tryit",
+    "papertrail:choklad",
+    "scheduler:standard",
+    "sendgrid:starter"
+  ]
+}
